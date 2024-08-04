@@ -2,9 +2,10 @@
 
 ## Configuration/Additional Setup
 
-1. Move mods to client/server `mods` folder.
-2. Move resourcepacks to client `resourcepacks` folder and make sure to activate them in-game.
-3. Keybindings
+1. Go to `My Modpacks` in the `curseforge` client and click `open folder`. (While you're at it make sure to set your ram allocation to 6-8gb, 10gb max)
+2. Move mods to client/server `mods` folder.
+3. Move resourcepacks to client `resourcepacks` folder and make sure to activate them in-game.
+4. Keybindings
    - You can either set the cobblemon overview keybinding to j or do it by editing the `options` file and putting the following in `key_key.cobblemon.summary:key.keyboard.j`
    - Make sure the cobblemon `throw` keybinding is also set to `r (default)` or something you prefer (without conflict e.g. sometimes `shader reload` is also set to `r`)
-4. In `config` folder find the `recipeessentials.json` file and edit the `disableRecipebook` to `false`
+5. In `config` folder find the `recipeessentials.json` file and edit the `disableRecipebook` to `false`
