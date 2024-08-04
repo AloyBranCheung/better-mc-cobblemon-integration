@@ -12,4 +12,4 @@
 4. Keybindings
    - You can either set the cobblemon overview keybinding to j or do it by editing the `options` file and putting the following in `key_key.cobblemon.summary:key.keyboard.j`
    - Make sure the cobblemon `throw` keybinding is also set to `r (default)` or something you prefer (without conflict e.g. sometimes `shader reload` is also set to `r`)
-5. In `config` folder find the `recipeessentials.json` file and edit the `disableRecipebook` to `false`
+5. In `config` folder find the `recipeessentials.json` file and edit the `disableRecipebook: true` and change `true` to `false` with a text editor e.g. `Notepad`, `TextEdit`, `VSCode`
