@@ -1,5 +1,9 @@
 # Better MC [FORGE] - BMC4 v28, game version: 1.20.1 Cobblemon Integration
 
+## Prerequisites
+
+- Installed `Better MC [FORGE] - BMC4 v28` for `MC 1.20.1` in `curseforge` client
+
 ## Configuration/Additional Setup
 
 1. Go to `My Modpacks` in the `curseforge` client and click `open folder`. (While you're at it make sure to set your ram allocation to 6-8gb, 10gb max)
