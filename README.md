@@ -13,5 +13,5 @@
 4. Keybindings
    - You can either edit the keybindings using the minecraft UI or the `options.txt` file 
    - Set the cobblemon `open summary` keybinding to j or do it by editing the `options` file and putting the following in `key_key.cobblemon.summary:key.keyboard.j`
-   - Set the cobblemon `throw` keybinding is also set to `r (default)` or something you prefer (without conflict e.g. sometimes `shader reload` is also set to `r`)
+   - Set the cobblemon `throw` keybinding to `r (default)` or something you prefer (without conflict e.g. sometimes `shader reload` is also set to `r`)
 5. If you like the vanilla minecraft recipe crafting book, in the `config` folder find the `recipeessentials.json` file and edit the `disableRecipebook: true` and change `true` to `false` with a text editor e.g. `Notepad`, `TextEdit`, `VSCode`
