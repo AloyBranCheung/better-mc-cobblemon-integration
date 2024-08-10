@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Installed `Better MC [FORGE] - BMC4 v28` for `MC 1.20.1` in `curseforge` client
-- Download this repo (e.g. as a zip) as you will need the mods and resourcepacks from here
+- Download this repo as a .zip as you will need the mods and resourcepacks from here
 
 ## Configuration/Additional Setup
 
