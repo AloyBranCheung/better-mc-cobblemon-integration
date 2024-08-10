@@ -8,8 +8,8 @@
 ## Configuration/Additional Setup
 
 1. Go to `My Modpacks` in the `curseforge` client and click `open folder`. (While you're at it make sure to set your ram allocation to 6-8gb under `profile options`, 10gb max)
-2. Move mods to client/server `mods` folder.
-3. Move resourcepacks to client `resourcepacks` folder and make sure to activate them through the in-game UI to see the pokemon on the minimap (the resourcepack to activate should be called something like `XaerosCobblemon-2.0.7+1.5`).
+2. Move mods from the `mods` folder in this repo to the client or server `mods` folder.
+3. Move resourcepacks from the `resourcepacks` folder in this repo to the client `resourcepacks` folder and make sure to activate them through the in-game UI to see the pokemon on the minimap (the resourcepack to activate should be called something like `XaerosCobblemon-2.0.7+1.5`).
 4. Start the game. 
 5. Keybindings
    - You can either edit the keybindings using the minecraft UI or the `options.txt` file 
